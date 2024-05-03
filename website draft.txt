@@ -1,0 +1,33 @@
+<html>
+	<h1>
+		Hey, I am the Auto Accident consultant!	
+	</h1>
+	<body>
+		<h2> About me</h2>
+		<p>
+			I am able to help people who have been in auto accidents or work related injuries help. Ask me how!
+		</p>
+		<h2>Call me for a free consultation now! Yes right now at 123-456-7890!</h2>
+		</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
